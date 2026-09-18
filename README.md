@@ -48,6 +48,8 @@ The project was carried out as a practical workshop activity demonstrating the c
 
 ## 🔧 Tools and Equipment
 
+<img width="598" height="335" alt="image" src="https://github.com/user-attachments/assets/d1e9ad5a-0858-4ff8-9ac0-3d5f2cf5d9a7" />
+
 * Measuring tape / scale
 * Try square / straight edge
 * Clamps / temporary supports
@@ -80,6 +82,8 @@ The required metal members were measured and marked according to the planned sto
 The metal sections were cut/prepared to the required lengths, and contact surfaces were cleaned.
 
 ### Step 3 — Upper Frame Assembly
+<img width="864" height="486" alt="image" src="https://github.com/user-attachments/assets/7b57931f-a5cb-485f-880c-57aeebb62202" />
+
 
 The perimeter members were placed together to form the rectangular seat-supporting frame.
 
@@ -88,6 +92,8 @@ The perimeter members were placed together to form the rectangular seat-supporti
 Small tack welds were applied at the corners and intersections to hold the frame temporarily.
 
 ### Step 5 — Leg Positioning
+<img width="864" height="486" alt="image" src="https://github.com/user-attachments/assets/e3d2cbef-04fb-4416-b70a-8b4eccacd99a" />
+
 
 Four vertical/inclined legs were positioned beneath the upper frame and checked for symmetry.
 
@@ -126,6 +132,9 @@ Additional diagonal/triangular support members near the corners provide an addit
 ---
 
 ## 🔍 Welding Quality Requirements
+
+
+<img width="839" height="630" alt="image" src="https://github.com/user-attachments/assets/a7973c54-57e8-4971-a14b-fd877835f2f0" />
 
 * Ensure clean contact between the members before welding.
 * Maintain adequate fusion along the intended joint.
